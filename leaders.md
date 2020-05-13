@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Mujtaba Hussain](mailto:mujtaba.hussain@owasp.org)
+* [Shahbaz Qadar Khattak](mailto:shahbazqadar.khattak@owasp.org)
