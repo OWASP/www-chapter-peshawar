@@ -22,7 +22,7 @@ region: This is the region you are in according to our data
 </div>
 
 ## Welcome
-Include some information here about your chapter
+OWASP Peshawar Chapter focuses on spreading awareness about secure codeing practices. If you are a programmer from peshawar and willing to invest your time in learning about secure coding or wish to share your knowledge with others; hop on. Spend your time and energy with like minded coders. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
