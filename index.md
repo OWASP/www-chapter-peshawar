@@ -17,7 +17,15 @@ If you are interested in finding more; fill out form [https://forms.gle/u1kxNpjZ
 
 ## Upcomming Events
 Our upcomming events are posted below:
-
+### OWASP Peshawar Chapter Launch 
+#### WHEN
+4th July 2020
+#### WHERE
+Google Meet: meet.google.com/esz-pazc-ngu
+#### AGENDA
+<p>15h00 - 15h30: OWASP Chapter Launch</p>
+<p>15h30 - 16h00: Draft Objectives</p>
+<p>16h00 - 18h30: Draft Schedule for 2020</p>
 
 ## Past Events
 Our upcomming events are posted below:
