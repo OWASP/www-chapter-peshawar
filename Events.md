@@ -1,6 +1,6 @@
 ---
 title: Events
-layout:  col-sidebar
+layout:  null
 tab: true
 order: 1
 tags: owasp-peshawar-events
