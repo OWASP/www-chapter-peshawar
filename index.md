@@ -2,24 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Peshawar
-tags: example-tag
+tags: owasp-peshawar
 region: Asia
 
 ---
-
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-region: This is the region you are in according to our data
-
-</div>
 
 ## Welcome
 OWASP Peshawar Chapter focuses on spreading awareness about secure coding practices. If you are a programmer from peshawar and willing to invest your time in learning about secure coding or wish to share your knowledge with others; hop on. Spend your time and energy with like minded coders. 
@@ -28,6 +14,15 @@ OWASP Peshawar Chapter focuses on spreading awareness about secure coding practi
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 If you are interested in finding more; fill out form [https://forms.gle/u1kxNpjZSPwxX5s9A](https://forms.gle/u1kxNpjZSPwxX5s9A) and we will contact you soon.
+
+## Upcomming Events
+Our upcomming events are posted below:
+
+
+## Past Events
+Our upcomming events are posted below:
+
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
