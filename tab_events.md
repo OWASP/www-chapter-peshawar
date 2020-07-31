@@ -3,7 +3,7 @@ title: Events
 layout:  null
 tab: true
 order: 1
-tags: owasp-peshawar-events
+tags: owasp-peshawar, events
 ---
 
 ## Events
