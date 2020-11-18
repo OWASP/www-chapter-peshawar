@@ -18,17 +18,17 @@ If you are interested in finding more; fill out form [https://forms.gle/u1kxNpjZ
 
 ## Upcomming Events
 Our upcomming events are posted below:
-### OWASP Peshawar Chapter Launch 
+### OWASP Peshawar Chapter December Meetup 
 #### WHEN
-4th July 2020
+12th December 2020
 #### WHERE
-Google Meet: meet.google.com/esz-pazc-ngu
+Google Meet: meet.google.com/rwz-eudm-pph
 #### AGENDA
-<p>15h00 - 15h30: OWASP Chapter Launch</p>
-<p>15h30 - 16h00: Draft Objectives</p>
-<p>16h00 - 18h30: Draft Schedule for 2020</p>
+<p>15h00 - 15h30: OWASP Peshawar Chapter Welcome Note </p>
+<p>15h30 - 16h00: Session 1: Stating With OWASP ZAP</p>
+<p>16h00 - 18h30: Session 2: An Introduction to Owasp Testing Guide-4</p>
 
 ## Past Events
-Our upcomming events are posted below:
-
+Our Previous events are posted below:
+1. OWASP Peshawar Chapter Launch - 4th July 2020
 
