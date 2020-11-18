@@ -4,7 +4,12 @@ layout: col-sidebar
 title: OWASP Peshawar
 tags: owasp-chapter
 tags: owasp-peshawar
+
 region: Asia
+
+meetup-group:owasp-peshawar-meetup-group
+country: Pakistan
+
 
 ---
 
