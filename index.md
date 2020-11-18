@@ -31,6 +31,4 @@ Google Meet: meet.google.com/esz-pazc-ngu
 ## Past Events
 Our upcomming events are posted below:
 
-{copy for this file (index.md)}
-{info.md}
-{leaders.md}
+
