@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Peshawar
-tags: example-tag
+tags: owasp-chapter
 tags: owasp-peshawar
 region: Asia
 
