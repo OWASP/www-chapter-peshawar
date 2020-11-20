@@ -5,6 +5,7 @@ layout: col-sidebar
 title: OWASP Peshawar
 tags: example-tag
 region: Asia
+meetup-group: owasp-peshawar-meetup-group
 country: Pakistan
 
 ---
