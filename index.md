@@ -19,7 +19,6 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 If you are interested in finding more; fill out form [https://forms.gle/u1kxNpjZSPwxX5s9A](https://forms.gle/u1kxNpjZSPwxX5s9A) and we will contact you soon.
 
 ## Upcomming Events
-Our upcomming events are posted below:
 {% include chapter_events.html group=owasp-peshawar-meetup-group %}
 ### OWASP Peshawar Chapter December Meetup 
 #### WHEN
@@ -30,7 +29,6 @@ Our upcomming events are posted below:
 <p>15h00 - 15h30: OWASP Peshawar Chapter Welcome Note </p>
 <p>15h30 - 16h00: Session 1: Stating With OWASP ZAP</p>
 <p>16h00 - 18h30: Session 2: An Introduction to Owasp Testing Guide-4</p>
-
 ## Past Events
 Our Previous events are posted below:
 1. OWASP Peshawar Chapter Launch - 4th July 2020
