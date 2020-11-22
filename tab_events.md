@@ -1,11 +1,11 @@
 ---
-title: Events
+title: Past Events
+displaytext: Past Events
 layout:  null
 tab: true
 order: 1
-tags: owasp-peshawar, events
+tags: events-tag
 ---
-
 ## Events
 OWASP Peshawar Chapter December Meetup 
 ### WHEN
