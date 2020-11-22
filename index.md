@@ -21,6 +21,7 @@ If you are interested in finding more; fill out form [https://forms.gle/u1kxNpjZ
 ## Upcomming Events
 Our upcomming events are posted below:
 {% include chapter_events.html group=owasp-peshawar-meetup-group %}
+
 ### OWASP Peshawar Chapter December Meetup 
 #### WHEN
 12th December 2020
