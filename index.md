@@ -25,7 +25,7 @@ Our upcomming events are posted below:
 #### WHEN
 12th December 2020
 #### ONLINE EVENT REGISTRATION
-[Signup for Meetup]((https://www.meetup.com/owasp-peshawar-meetup-group/events/274744976/)
+[Signup for Meetup](https://www.meetup.com/owasp-peshawar-meetup-group/events/274744976/)
 #### AGENDA
 <p>15h00 - 15h30: OWASP Peshawar Chapter Welcome Note </p>
 <p>15h30 - 16h00: Session 1: Stating With OWASP ZAP</p>
