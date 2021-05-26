@@ -20,9 +20,10 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 Anyone is free to attend, although we do encourage membership if you find value in our meetings. If you are interested in speaking, please contact the chapter leaders: [Mujtaba Hussain](mailto:mujtaba.hussain@owasp.org), [Mujahid Shah](mailto:mujahid.shah@owasp.org), or [Shahbaz Qadar Khattak](mailto:shahbazqadar.khattak@owasp.org).
 
-## Upcomming Events
+## Upcoming Events
 
-{% include chapter_events.html group=owasp-peshawar-meetup-group %}
+{% include chapter_events.html group=page.meetup-group %}
+
 
 ## Past Events 
 
