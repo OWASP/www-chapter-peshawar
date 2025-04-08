@@ -1,4 +1,4 @@
 ### Leaders
-* [Muhammad Jawad Peshawar](mailto:mjawad.business@gmail.com)
-* [Shehzad Ali Peshawar](mailto:shehzadinfosec@gmail.com)
-* [Muhammad Waqar Peshawar](mailto:waqarroy975@gmail.com)
+* [Muhammad Jawad](mailto:muhammad.jawad@owasp.org)
+* [Shehzad Ali](mailto:shehzad.ali@owasp.org)
+* [Muhammad Waqar](mailto:muhammad.waqar@owasp.org)
