@@ -5,12 +5,12 @@ title: OWASP Peshawar Chapter
 tags: peshawar
 region: Asia
 country: Pakistan
-meetup-group: 
+meetup-group: owasp-peshawar-chapter
 
 ---
 OWASP Peshawar
 -------------
-Welcome to the OWASP Peshawar chapter homepage. The chapter board is <a href="mailto:muhammad.jawad@owasp.org">Muhammad Jawad</a>, <a href="mailto:shehzad.ali@owasp.org">Shehzad Ali</a> and <a href="mailto:muhammad.waqar@owasp.org">Muhammad Waqar</a>. <!--  Follow chapter news on [Meetup.com](https://meetup.com/OWASP-Peshawar) [Instagram](https://www.facebook.com/OWASPPeshawar)  -->
+Welcome to the OWASP Peshawar chapter homepage. The chapter board is <a href="mailto:muhammad.jawad@owasp.org">Muhammad Jawad</a>, <a href="mailto:shehzad.ali@owasp.org">Shehzad Ali</a> and <a href="mailto:muhammad.waqar@owasp.org">Muhammad Waqar</a>. Follow chapter news on [Meetup.com](https://meetup.com/OWASP-Peshawar) [Instagram](https://www.facebook.com/OWASPPeshawar)
 
 
 ## Participation
